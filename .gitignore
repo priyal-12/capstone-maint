@@ -1,0 +1,5 @@
+/logs/
+/var/backups/
+/etc/capstone-maint.conf
+*.tar.gz
+*.swp
